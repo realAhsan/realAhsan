@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @realAhsan
-- 👀 I’m interested in blockchain development.
-- 🌱 I’m currently learning mern stack.
+- 🌱 I’m currently working on mern stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email apervaiz62@gmail.com.
 - ✨ intagram _ahsun_x.
