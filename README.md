@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realAhsan
 - 🌱 I’m currently working on mern stack.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email apervaiz62@gmail.com.
+- 📫 How to reach me email apervaiz622@gmail.com.
 - ✨ intagram _ahsun_x.
 
 
