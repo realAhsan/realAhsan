@@ -1,6 +1,7 @@
-<div align="left">
+<!-- <div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,12&height=120&section=header&text=Hi,%20my%20name%20is%20Ahsan%20Pervaiz&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" alt="Header" />
-</div>
+</div> -->
+<h1 align="left">Hi, I am Ahsan Pervaiz</h1>
 
 I'm a full-stack engineer who's spent the last 2+ years turning startup ideas into production-grade applications that users actually love and investors actually fund. Whether it's a MongoDB-powered dashboard or a PostgreSQL-backed SaaS platform, I make sure it's fast, maintainable, and ready to 10x.
 
