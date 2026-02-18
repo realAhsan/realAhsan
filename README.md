@@ -1,6 +1,5 @@
 <h1 align="left">Hi, my name is Ahsan Pervaiz</h1>
 I'm a full-stack engineer who’s spent the last 2+ years turning startup ideas into production-grade applications that users actually love and investors actually fund. Whether it’s a MongoDB-powered dashboard or a PostgreSQL-backed SaaS platform, I make sure it’s fast, maintainable, and ready to 10x.
----
 
 ### Crafting Scalable Digital Experiences
 I write software that ships.
